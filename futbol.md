@@ -9,7 +9,7 @@ El fútbol es un deporte de equipo jugado entre dos conjuntos de once jugadores 
      - **Delanteros**: Tienen oportunidades de realizar tiros al arco. Son rápidos y ágiles.
      - **Portero**: Protege la portería y es el único que puede usar las manos dentro de su área de penal.
 
-![alt text](1.png)
+![alt text](./img/futbol-1.png)
 
 # Historia
 
@@ -26,7 +26,7 @@ La historia del fútbol se considera a partir de 1869, año de fundación de la 
    - Desde entonces, el fútbol ha experimentado un crecimiento constante hasta convertirse en el deporte más popular del mundo, con unas 270 millones de personas involucradas diariamente. Actualmente, hay más de 4.000 millones de aficionados al fútbol en todo el mundo.
    - La realización de la primera reunión de la International Football Association Board en 1886 y la fundación de la FIFA en 1904 contribuyeron a la expansión global del fútbol. A partir de 1930, se comenzó a disputar la Copa Mundial de Fútbol, que se ha convertido en el evento deportivo con mayor audiencia en el mundo.
 
-![alt text](2.png)
+![alt text](./img/futbol-2.png)
 
 
 # Como se gana
@@ -35,7 +35,7 @@ Hay distintas formas de ganar en el futbol:
 
 1. - **Marcando más goles**: Esta es la forma más directa y común de ganar en el fútbol. Si un equipo logra anotar más goles que su oponente durante el transcurso del partido, gana el encuentro.
 
-![alt text](3.png)
+![alt text](./img/futbol-3.png)
 
 
 2. - **Tiros desde el punto penal**: En algunas competiciones, si el partido termina empatado al final del tiempo reglamentario, se puede recurrir a una tanda de penales para determinar al ganador. El equipo que convierta más penales gana.
@@ -55,7 +55,7 @@ Hay distintas formas de ganar en el futbol:
 
 - **Copa Mundial de la FIFA**: El torneo internacional más prestigioso a nivel de selecciones nacionales, celebrado cada cuatro años.
 
-![alt text](4.png)
+![alt text](./img/futbol-4.png)
 
 - **UEFA Champions League**: La principal competición de clubes de fútbol en Europa, organizada por la UEFA y disputada anualmente por los mejores equipos del continente.
 
