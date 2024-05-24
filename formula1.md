@@ -21,11 +21,11 @@ Actualmente esta compuesta por los equipos:
 
 ## Circuitos
 
-![Silverstone](image.png)
-![Las Vegas](image-1.png)
-![Belgium](image-2.png)
-![Japan](image-3.png)
-![Abu Dhabi](image-4.png)
+![Silverstone](./img/formula1-0.png)
+![Las Vegas](./img/formula1-1.png)
+![Belgium](./img/formula1-2.png)
+![Japan](./img/formula1-3.png)
+![Abu Dhabi](./img/formula1-4.png)
 
 # Historia
 
