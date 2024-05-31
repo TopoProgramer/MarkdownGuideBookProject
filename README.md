@@ -10,4 +10,4 @@
 
 - [Formula 1](./formula1.md)
 - [Futbol](./futbol.md)
-- [Rugby](./rugby.md)
+- [Rugby](./Rugby.md)
