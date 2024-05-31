@@ -6,7 +6,7 @@ El objetivo del juego es trasladar la pelota más allá de la línea de meta (l�
 # Historia
 
 Cuenta la leyenda que en 1823, durante un partido de fútbol en un colegio de la ciudad de Rugby, Inglaterra, un joven llamado William Webb Ellis levantó la pelota y corrió hacia la línea de meta oponente.
-![Webb Ellis](https://resources.world.rugby/photo-resources/worldrugby/photo/2014/11/06/c4bf0a45-5bf0-431c-b442-f73e58e12222/William-Webb-Ellis-in-later_5878.gif?width=1024)
+![Webb Ellis](rugby-1.jpg)
 **[Webb Ellis](https://es.wikipedia.org/wiki/William_Webb_Ellis)**
 
 Dos siglos después, el Rugby ha evolucionado hasta convertirse en uno de los deportes más populares del mundo, con millones de personas jugando, mirando y disfrutando del Juego.
@@ -23,7 +23,7 @@ Algunos de los principales jugadores en la hisotria:
 - **Serge Blanco (Francia):** Blanco es considerado el mejor jugador francés de la historia. Internacional con el XV del Gallo entre 1980 y 1991, es uno de los impulsores del rugby champagne que maravilló en los ochenta.
 - **Zinzan Brooke (Nueva Zelanda):** Brooke es uno de los mejores delanteros neozelandeses de la historia. Su gran hito es el Mundial de 1987 conseguido por los All Blacks.
 - **John Eales (Australia):** Eales es uno de los pocos jugadores que han conseguido dos copas del mundo. Fue capitán de los Wallabies durante el Mundial de 1991 y el de 1999.
-![Salón de la fama](https://upload.wikimedia.org/wikipedia/it/2/24/World_Rugby_HoF_logo.png)
+![Salón de la fama](rugby-2.png)
 
 **[Rugby Hall of Fame](https://www.world.rugby/news/321970/hands-nombrado-secretario-del-world-rugby-hall-of-fame)**
 
@@ -37,7 +37,7 @@ Después de anotar un try, el equipo tiene la oportunidad de ganar 2 puntos adic
 Cuando se otorga un penal a favor de un equipo después de una infracción de los oponentes, pueden elegir patear el balón a través de los postes de gol para sumar 3 puntos.
 **Drop goal: 3 puntos**
 Se marca un drop goal cuando un jugador patea el balón al palo en el juego general, dejándolo caer al suelo y pateándolo enseguida después de que bote, mientras está en el aire.
-![Puntos](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuktQKoe4gWB3gd_-2_qMB3jt6IkLJ2ij1-s1rj91gIYP91anGQ5NR8lbzMcOqzVUibe4dwEREOPQrbEZ2YUjS_l55kNSV5GrN_ZVlhpdv2pBgOKCuGKm8eGLIHUxjH-AA67KVcJJrOHk/s1600/anotacionrugby.gif)
+![Puntos](rugby-3.png)
 
 # Campeonatos
 
@@ -45,7 +45,7 @@ Se marca un drop goal cuando un jugador patea el balón al palo en el juego gene
 - **Torneo de las Seis Naciones:** Un torneo anual que involucra a equipos de Francia, Italia, Inglaterra, Irlanda, Escocia y Gales.
 - **Rugby Championship:** Torneo internacional y anual de rugby que se lleva a cabo desde 2012, en el que participan las selecciones nacionales de Argentina, Australia, Nueva Zelanda y Sudáfrica. 
 
-![Rugby World Cup](https://ichef.bbci.co.uk/news/1024/cpsprodpb/D0F5/production/_130939435_rwccup.jpg)
+![Rugby World Cup](rugby-4.jpg)
 
 ### Redes de jugadores:
 - [Marcos Kremer](https://www.instagram.com/kremermarcos?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
